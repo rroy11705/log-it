@@ -63,11 +63,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-<h2 align="left">🔍&nbsp Connect With Me :</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/rahulroy99/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Yu-Chun%20Cheng&logo=linkedin&label=&color=333333&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-"# log-it" 
